@@ -562,11 +562,11 @@
   <project path="device/lge/d851" name="android_device_lge_d851" remote="illusion" revision="lp5.0" />
   <project path="device/htc/ville" name="android_device_htc_ville" remote="illusion" revision="lp5.0" /> 
   <project path="device/htc/s4-common" name="android_device_htc_s4-common" remote="illusion" revision="lp5.0" /> 
-  <project path="device/htc/msm8960" name="android_device_htc_msm8960" remote="illusion" revision="lp5.0" /> 
+  <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="illusion" revision="lp5.0" /> 
 
   <!--Kernel ICE-->
   <project path="kernel/lge/g3" name="android_kernel_lge_g3" remote="illusion" revision="lp5.0" />
-  <project path="kernel/htc/msm8960-common" name="android_kernel_htc_msm8960-common" remote="illusion" revision="lp5.0" />
+  <project path="kernel/htc/msm8960" name="android_kernel_htc_msm8960" remote="illusion" revision="lp5.0" />
 
   <!--Device Porprietary-->
   <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="other" revision="cm-12.0" />
